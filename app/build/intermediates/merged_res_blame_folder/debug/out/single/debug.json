@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "com.colin.GoodGirlReads.app-merged_res-39:/layout_book_item.xml.flat",
+        "source": "com.colin.GoodGirlReads.app-main-41:/layout/book_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_ic_lock_focused.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\ic_lock_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\ic_lock.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_ic_email_focused.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\ic_email_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_ic_logout.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\ic_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_ic_bike.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\ic_bike.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\layout_book_item.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\layout\\book_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_custom_input.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\custom_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_bike_v2.png.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\bike_v2.png"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\menu_menu_items.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\menu\\menu_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable-v24_ic_more_vert_foreground.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable-v24\\ic_more_vert_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\layout_activity_add_book.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\layout\\activity_add_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_logo_google.png.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\logo_google.png"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_ic_email.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\ic_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_custom_email_icon.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\custom_email_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_custom_lock_icon.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\custom_lock_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\layout_activity_view_books.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\layout\\activity_view_books.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-merged_res-39:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\cmoor\\.gradle\\daemon\\7.5\\com.colin.GoodGirlReads.app-main-41:\\layout\\activity_register.xml"
+    }
+]

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Views.AddBookActivity">
+
+    <EditText
+        android:id="@+id/editTextBookName"
+        android:inputType="textPersonName"
+        android:layout_height="48dp"
+        android:hint="Name"
+        style="@style/EditTextStyles"/>
+
+    <EditText
+        android:id="@+id/editTextCost"
+        android:inputType="numberDecimal"
+        android:layout_height="48dp"
+        android:hint="Price"
+        style="@style/EditTextStyles"/>
+
+    <EditText
+        android:id="@+id/editTextBrand"
+        android:inputType="textPersonName"
+        android:layout_height="48dp"
+        android:hint="Brand"
+        style="@style/EditTextStyles"/>
+
+    <EditText
+        android:id="@+id/editTextCategory"
+        android:layout_height="48dp"
+        android:inputType="textPersonName"
+        android:hint="Category"
+        style="@style/EditTextStyles"/>
+
+    <Button
+        android:id="@+id/btnAddBook"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:textSize="7.5pt"
+        android:text="@string/addBook" />
+
+</LinearLayout>
