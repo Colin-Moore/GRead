@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MelissaColin_COMP304Sec001_Lab05_Group14</string>
+    <string name="fieldErrorMessage">Field cannot be blank</string>
+    <string name="fieldError">Please fill out all fields</string>
+    <string name="addBook">Add Book</string>
+    <string name="bookDeleted">Book deleted</string>
+    <string name="confirmDelete">Are you sure you want to delete this book?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="or">or</string>
+    <string name="logo">BookWorx_logo</string>
+    <string name="enterEmail">Email</string>
+    <string name="enterPassword">Password</string>
+    <string name="confirmPassword">Re-enter Password</string>
+    <string name="hasAccountTrue">Already have an account?</string>
+    <string name="hasAccountFalse">Don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="loginHere">Login here</string>
+    <string name="register">Register</string>
+    <string name="registerHere">Register here</string>
+    <string name="logout">Logout</string>
+    <string name="availableBooks">Available Books</string>
+    <string name="allCategories">All Categories</string>
+</resources>

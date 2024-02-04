@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/viewBookLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    tools:context=".Views.ViewBooksActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:textSize="9pt"
+        android:text="Select a category:" />
+
+    <Spinner
+        android:id="@+id/categorySpinner"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="2dp"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/blue_900"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvBookList"
+        android:layout_width="match_parent"
+        android:layout_height="428dp"
+        android:layout_gravity="center_horizontal"
+        tools:listitem="@layout/book_item" />
+
+    <ImageView
+        android:id="@+id/bookimage"
+        android:layout_width="316px"
+        android:layout_height="316px"/>
+    <Button
+        android:id="@+id/btnISBN"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Check For ISBN" />
+
+</LinearLayout>

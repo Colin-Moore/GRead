@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="20dp"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".Views.LoginActivity">
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:drawableStart="@drawable/custom_email_icon"
+        android:inputType="textEmailAddress"
+        android:autofillHints="emailAddress"
+        android:hint="@string/enterEmail"
+        style="@style/EditTextStyles"/>
+
+    <EditText
+        android:id="@+id/editTextPassword"
+        android:drawableStart="@drawable/custom_lock_icon"
+        android:inputType="textPassword"
+        android:autofillHints="password"
+        android:hint="@string/enterPassword"
+        style="@style/EditTextStyles"/>
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textSize="7.5pt"
+        android:text="@string/login"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/or"/>
+
+    <Button
+        android:id="@+id/btnLoginGoogle"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:textSize="7pt"
+        android:textAllCaps="false"
+        android:textColor="@color/black"
+        android:drawableLeft="@drawable/logo_google"
+        android:backgroundTint="@color/white"
+        android:text="@string/common_signin_button_text_long"/>
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="10dp"
+            android:layout_gravity="bottom"
+            android:textSize="6.5pt"
+            android:text="@string/hasAccountFalse"/>
+
+        <Button
+            android:id="@+id/btnRegister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:textSize="6.5pt"
+            android:textColor="@color/orange_500"
+            android:textAllCaps="false"
+            android:text="@string/registerHere"
+            style="@style/Widget.MaterialComponents.Button.TextButton"/>
+
+    </LinearLayout>
+
+</LinearLayout>
